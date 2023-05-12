@@ -7,9 +7,13 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "confetti-js": "^0.0.18",
     "firebase": "^9.21.0",
     "js-confetti": "^0.11.0",
+=======
+    "node": "^19.6.0",
+>>>>>>> c5f810f22ae950d5b14db21abcf2083ee27e3a27
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
