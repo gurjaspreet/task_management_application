@@ -1,7 +1,6 @@
 .App {
   text-align: center;
 }
-<<<<<<< HEAD
 body{
   color: white;
   background-color: #242222;
@@ -12,13 +11,7 @@ body{
   height: 40vmin;
   pointer-events: none;
 }
-=======
 
->>>>>>> c5f810f22ae950d5b14db21abcf2083ee27e3a27
-
-
-
-<<<<<<< HEAD
 .App-link {
   color: #61dafb;
 }
@@ -100,5 +93,3 @@ body{
     transform: scale(1.2, 1);
   }
 }
-=======
->>>>>>> c5f810f22ae950d5b14db21abcf2083ee27e3a27
